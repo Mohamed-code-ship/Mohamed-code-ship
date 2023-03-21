@@ -3,7 +3,7 @@
 <h3 align="center">A positive and passionate Web Developer based in Kenya.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🔭 I’m currently working on **Django Online Dictionaryu**
+- 🔭 I’m currently working on **Django Online Dictionary**
 
 - 🌱 I’m currently learning **Javascript Vanilla**
 
