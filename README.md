@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-code-ship&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-code-ship" /> </p>
 
-- 🔭 I’m currently working on **Django Online Dictionary**
+- 🔭 I’m currently working on **Django Ecommerce Website**
 
-- 🌱 I’m currently learning **Javascript Vanilla**
+- 🌱 I’m currently learning **GCP**
 
 - 💬 Ask me about **Backend Development**
 
