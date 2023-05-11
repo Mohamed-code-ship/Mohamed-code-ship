@@ -1,13 +1,13 @@
 
 [![MasterHead](https://mattermost.com/wp-content/uploads/2022/03/03_Flask_vs_Django_Python@2x-1536x804.webp)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A positive and passionate Web Developer based in Kenya.</h3>
+<h3 align="center">Backend developer skilled in Python/Django and experienced in designing and implementing scalable and maintainable web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-code-ship&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-code-ship" /> </p>
 
-- 🔭 I’m currently working on **Django Ecommerce Website**
+- 🔭 I’m currently working on **React.JS**
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **Backend Development**
 
